@@ -1,7 +1,7 @@
 ## ¡Hola 👋 Soy Silvina, <br> <br>¡Gracias por visitarme en mi GitHub!
 ***
 
-Ahora, trabajando en proyectos de **Ciencia y Análisis de Datos**. Me encanta ser parte de esta comunidad de trabajo en conjunto, y conocimiento compartido :heart:. <br>
+#### Ahora, trabajando en proyectos de **Ciencia y Análisis de Datos**. Me encanta ser parte de esta comunidad de trabajo en conjunto, y conocimiento compartido :heart:. <br>
 
 ## Tecnologías y Herramientas
 
