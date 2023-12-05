@@ -32,7 +32,7 @@
 ### Sobre mí
 
 - 🔭 Actualmente estoy comenzando un proyecto con datos del rubro Energético.
-- 🌱 Estoy aprendiendo sobre la incorporacion de IA a mis proyectos.}
+- 🌱 Estoy aprendiendo sobre la incorporacion de IA a mis proyectos.
 - ❤️ Me encanta ser parte de esta comunidad de trabajo en conjunto, y conocimiento compartido
   <br>
   <br>
