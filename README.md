@@ -1,9 +1,11 @@
-## ¡Hola 👋 Soy Silvina, <br> <br>¡Gracias por visitarme en mi GitHub!
+## ¡Hola 👋 Soy Silvina, <br> <br>
+**¡Gracias por visitarme en mi GitHub!**
 ***
 
-#### Ahora, trabajando en proyectos de **Ciencia y Análisis de Datos**. Me encanta ser parte de esta comunidad de trabajo en conjunto, y conocimiento compartido :heart:. <br>
+### <p align="center">Trabajando en proyectos de <b>Ciencia y Análisis de Datos<b>.</p>
 
-## Tecnologías y Herramientas
+
+### Tecnologías y Herramientas
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -27,10 +29,14 @@
 
 
 
-## Sobre mí
+### Sobre mí
 
 - 🔭 Actualmente estoy comenzando un proyecto con datos del rubro Energético.
-- 🌱 Estoy aprendiendo sobre la incorporacion de IA a mis proyectos.
+- 🌱 Estoy aprendiendo sobre la incorporacion de IA a mis proyectos.}
+- ❤️ Me encanta ser parte de esta comunidad de trabajo en conjunto, y conocimiento compartido
+  <br>
+  <br>
+
 
 Podes encontrarme en:<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvina-de-micco/)
