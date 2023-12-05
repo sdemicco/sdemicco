@@ -40,6 +40,8 @@
 
 Podes encontrarme en:<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvina-de-micco/)
+[![Contacto](https://img.shields.io/badge/Contacto-sildemicco%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sildemicco@gmail.com)
+
 
 
 
