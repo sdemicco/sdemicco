@@ -33,7 +33,7 @@
 
 - 🔭 Currently starting a project with data from the Energy sector.
 - 🌱 Learning about incorporating AI into my projects.
-- ❤️ Love being part of this community of collaborative work and shared knowledge
+- ❤️ Love being part of this community of collaborative work and shared knowledge.
   <br>
   <br>
 
